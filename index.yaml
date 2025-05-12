@@ -3,7 +3,29 @@ entries:
   rtsptowebrtc:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2025-05-12T16:25:33.980477+08:00"
+    created: "2025-05-12T17:15:17.349777+08:00"
+    description: RTSP Stream to WebBrowser over WebRTC based on Pion
+    digest: 7e96dc97bfe0bcaaa069cc673f2578585044d4da97f87b0193d2991d6ec95dde
+    home: https://github.com/deepch/RTSPtoWebRTC
+    icon: https://raw.githubusercontent.com/uuuu-dot/helm-charts/main/icons/rtsptowebrtc.png
+    keywords:
+    - rtsp
+    - webrtc
+    - video
+    - streaming
+    maintainers:
+    - name: uuuu-dot
+      url: https://github.com/uuuu-dot
+    name: rtsptowebrtc
+    sources:
+    - https://github.com/deepch/RTSPtoWebRTC
+    type: application
+    urls:
+    - https://uuuu-dot.github.io/helm-charts/rtsptowebrtc-0.1.1.tgz
+    version: 0.1.1
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2025-05-12T17:15:17.350113+08:00"
     description: RTSP Stream to WebBrowser over WebRTC based on Pion
     digest: 7d4106ddddf0c2d9c4be52a0308cd62070cdbdbc6813b7ab9a93ec99356d8005
     home: https://github.com/deepch/RTSPtoWebRTC
@@ -21,6 +43,6 @@ entries:
     - https://github.com/deepch/RTSPtoWebRTC
     type: application
     urls:
-    - https://uuuu-dot.github.io/helm-charts/rtsptowebrtc-0.1.0.tgz
+    - https://uuuu-dot.github.io/helm-charts/gh-pages-temp/rtsptowebrtc-0.1.0.tgz
     version: 0.1.0
-generated: "2025-05-12T16:25:33.980058+08:00"
+generated: "2025-05-12T17:15:17.349191+08:00"
